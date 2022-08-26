@@ -1,7 +1,7 @@
 # doinsport-to-do-list
 Test technique Doinsport Angular/Ionic
 
-## Table of contents
+## Table de matières
 * [Introduction](#Introduction)
 * [Fonctionnalités implémentées](#Fonctionnalités implémentées)
 * [Technologies](#Technologies)
