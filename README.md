@@ -3,7 +3,7 @@ Test technique Doinsport Angular/Ionic
 
 ## Table of contents
 * [Introduction](#Introduction)
-* [Fonctionnalitésimplémentées](#Fonctionnalités implémentées)
+* [Fonctionnalités implémentées](#Fonctionnalités implémentées)
 * [Technologies](#Technologies)
 * [Pour lancer l'application](#Pour lancer l'application)
 
@@ -12,7 +12,7 @@ Ce projet est dans le cadre du processus de recrutement d'un développeur Angula
 
 Le but de ce projet est la mise en place d'une application TODO list.
 
-## Fonctionnalitésimplémentées
+## Fonctionnalités implémentées
 - Authentification par login et mot de passe
 - Une liste Todo avec infinity scroll
 - Recherche de TODO
