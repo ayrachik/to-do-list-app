@@ -3,7 +3,7 @@ Test technique Doinsport Angular/Ionic
 
 ## Table of contents
 * [Introduction](#Introduction)
-* [Fonctionnalités implémentées](#Fonctionnalités implémentées)
+* [Fonctionnalités implémentées](#Fonctionnalitésimplémentées)
 * [Technologies](# Technologies)
 * [Pour lancer l'application](#Pour lancer l'application)
 
