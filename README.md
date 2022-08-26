@@ -3,9 +3,9 @@ Test technique Doinsport Angular/Ionic
 
 ## Table de matières
 * [Introduction](#Introduction)
-* [Fonctionnalités implémentées](#Fonctionnalités implémentées)
+* [Fonctionnalités implémentées](#Fonctionnalités-implémentées)
 * [Technologies](#Technologies)
-* [Pour lancer l'application](#Pour lancer l'application)
+* [Pour lancer l'application](#Pour-lancer-l'application)
 
 ## Introduction
 Ce projet est dans le cadre du processus de recrutement d'un développeur Angular/Ionic avec l'entreprise Doinsport.
