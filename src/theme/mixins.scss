@@ -1,0 +1,13 @@
+@mixin utility-ion-color {
+
+  @each $key,
+  $value in $ion-colors {
+    .ion-text-#{$key} {
+      color: $value  !important;
+    }
+
+    .ion-color-#{$key} {
+      background-color: $value  !important;
+    }
+  }
+}

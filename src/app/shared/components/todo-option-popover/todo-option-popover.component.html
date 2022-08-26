@@ -1,0 +1,6 @@
+<ion-list>
+  <ion-list-header>{{ todo.label }}</ion-list-header>
+  <ion-item button (click)="openUpdateTodo(todo)">MODIFIER</ion-item>
+  <ion-item button (click)="deleteTodo(todo)" lines="none">SUPPRIMER</ion-item>
+</ion-list>
+<ion-button expand="block" (click)="close()">CLOSE</ion-button>

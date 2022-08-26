@@ -1,0 +1,7 @@
+{
+  "name": "doinsport-to-do-list",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
