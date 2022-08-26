@@ -2,10 +2,10 @@
 Test technique Doinsport Angular/Ionic
 
 ## Table of contents
-* [Introduction](# Introduction)
-* [Fonctionnalités implémentées](# Fonctionnalités implémentées)
+* [Introduction](#Introduction)
+* [Fonctionnalités implémentées](#Fonctionnalités implémentées)
 * [Technologies](# Technologies)
-* [Pour lancer l'application](# Pour lancer l'application)
+* [Pour lancer l'application](#Pour lancer l'application)
 
 ## Introduction
 Ce projet est dans le cadre du processus de recrutement d'un développeur Angular/Ionic avec l'entreprise Doinsport.
