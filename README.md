@@ -18,7 +18,7 @@ Le but de ce projet est la mise en place d'une application TODO list.
 - Recherche de TODO
 - Création d'un nouveau TODO
 - Modification de TODO
-- Supression de TODO
+- Suppression de TODO
 	
 ## Technologies
 * Angular version: 14.0.0
