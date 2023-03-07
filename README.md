@@ -1,5 +1,5 @@
-# doinsport-to-do-list
-Application Doinsport Angular/Ionic
+# to-do-list-app
+Application TODO Angular/Ionic
 
 ## Table de matières
 * [Introduction](#Introduction)
