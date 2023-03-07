@@ -1,5 +1,5 @@
 # doinsport-to-do-list
-Test technique Doinsport Angular/Ionic
+Application Doinsport Angular/Ionic
 
 ## Table de matières
 * [Introduction](#Introduction)
@@ -9,9 +9,8 @@ Test technique Doinsport Angular/Ionic
 * [Pour lancer l'application](#Pour-lancer-l'application)
 
 ## Introduction
-Ce projet est dans le cadre du processus de recrutement d'un développeur Angular/Ionic avec l'entreprise Doinsport.
-
 Le but de ce projet est la mise en place d'une application TODO list.
+Les technologies utilisées sont Angular/Ionic
 
 ## Fonctionnalités implémentées
 - Authentification par login et mot de passe
